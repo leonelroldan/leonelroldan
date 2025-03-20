@@ -3,7 +3,7 @@
 <h2 align="left">Let me introduce myself 💡</h2>
 <p align="flex-start">
   Hey there! I'm Leonel, aka Dyan Dev. I'm a web developer who loves working with both front-end and back-end technologies. <br>
-  I build beautiful, user-friendly interfaces with React and <i><b>Angular</b></i>, and create powerful back-end systems with <i><b>Node.js</b></i> and <i><b>Express</b></i>, and others. 😄<br><br>
+  I build beautiful, user-friendly interfaces with React and <i><b>Angular</b></i>, and create powerful back-end systems with <i><b>Node.js</b></i> and <i><b>Express</b></i>, and others technologies. 😄<br><br>
   Design is also a big passion of mine — I work with <i><b>Figma</b></i> and focus on creating smooth UI/UX experiences. <br>
   I'm also into cloud services like <i><b>AWS</b></i> and <i><b>Azure</b></i> to make sure everything scales smoothly. Let's create something awesome together! 🚀
 </p>
