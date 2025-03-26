@@ -41,7 +41,7 @@
       <i>Technologies</i>
     </p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,python,java,postman,docker&perline=8" />
+      <img src="https://skillicons.dev/icons?i=nodejs,python,java&perline=8" />
     </a>
   </li>
   <li>
@@ -85,7 +85,7 @@
       <i>Tools</i>
     </p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bash,powershell,github,codepen&perline=8" />
+      <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bash,powershell,github,codepen,postman,docker&perline=3" />
     </a>
   </li>
 </ul>
